@@ -3,6 +3,8 @@
 A modern, responsive IP Address Tracker built with **React (Vite)**, **Leaflet**, **Zustand**, and **Tailwind CSS**, powered by the [IPify Geolocation API](https://geo.ipify.org/).  
 It displays detailed IP information including **IP address**, **location**, **timezone**, **ISP**, and shows the user's location on an interactive map.
 
+👉[Live Preview](https://ip-tracker-app-alpha.vercel.app/)
+
 ![App Screenshot](./public/ip-address-tracker-preview.png)
 
 ---
